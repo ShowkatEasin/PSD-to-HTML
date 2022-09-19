@@ -46,6 +46,7 @@ header img{
     text-align: center;
     color: white;
     overflow: hidden;
+    padding-bottom: 25px;
  
 }
 .mywork .menu a{
@@ -59,4 +60,30 @@ header img{
 }
 .mywork .col {
     text-align: center;
+}
+button{
+    background: #7b77c9;
+    padding: 8px 15px;
+    font-size: 18px;
+    color: white;
+    border: none;
+    border-radius: 5px; 
+    margin: 25px; 
+}
+
+.myphotography{
+text-align: center;
+}
+
+.subscribe{
+    background-color: #23232e;
+    text-align: center;
+    color: white;
+    padding: 25px 0;
+}
+
+.subscribe input{
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px; 
 }
