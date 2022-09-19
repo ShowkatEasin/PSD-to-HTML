@@ -24,5 +24,39 @@ header span{
 }
 header img{
     width: 9%;
-
+}
+.what-i-do  {
+    text-align: center;
+    overflow: hidden;
+}
+.what-i-do > p{
+    font-size: 25px;
+}
+.container{
+    padding: 0 25%;
+}
+.col{
+    width: 31.33%;
+    margin: 0 1%;
+    float: left;
+    text-align: left; 
+}
+.mywork{
+    background: #23232e;
+    text-align: center;
+    color: white;
+    overflow: hidden;
+ 
+}
+.mywork .menu a{
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+}
+.col img{
+    width: 100%;
+}
+.mywork .col {
+    text-align: center;
 }
